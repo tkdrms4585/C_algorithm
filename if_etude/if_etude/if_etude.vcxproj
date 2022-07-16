@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{c8133cdc-5312-4316-be4c-7e3a58616017}</ProjectGuid>
-    <RootNamespace>prinftscanf</RootNamespace>
+    <ProjectGuid>{f29f4cf1-8a20-41c2-8e2e-1f15ac670a1c}</ProjectGuid>
+    <RootNamespace>ifetude</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,10 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="area.cpp" />
-    <ClCompile Include="m2s.cpp" />
-    <ClCompile Include="swap.cpp" />
-    <ClCompile Include="op.cpp" />
+    <ClCompile Include="compare.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

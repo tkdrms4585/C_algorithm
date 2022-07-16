@@ -15,16 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="area.cpp">
+    <ClCompile Include="etude1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="m2s.cpp">
+    <ClCompile Include="etude2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="swap.cpp">
+    <ClCompile Include="etude3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="op.cpp">
+    <ClCompile Include="etude4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="etude5.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
