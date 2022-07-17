@@ -10,7 +10,7 @@
 
 int main_etude4() {
 	int c[5][5] = { 0, };
-	int i, j, cnt = 1, k = n - 1;
+	int i, j, cnt = 1, k = 4;
 
 	// 배열에 값을 넣는 코드
 	for (i = 0; i <= 4; i++) {

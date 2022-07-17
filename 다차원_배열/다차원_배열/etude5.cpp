@@ -8,17 +8,19 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 
-int main_etude4() {
+int main_e5() {
 	int c[5][5] = { 0, };
-	int i, j, cnt = 1, k = 4;
-	int x = 0, y = 2;
+	int i, j, cnt = 1;
+	int x = 2, y = 2;
 	// 배열에 값을 넣는 코드
 	for (i = 0; i <= 4; i++) {
-		for (j = 0; j <= 4; j++) {
-			c[x][y] = cnt++;
-			if (i < 2)
-				x++, y++;
+		for (j = x; j <= y; j++) {
+			c[i][j] = cnt++;
 		}
+			if (i < 2)
+				x--, y++;
+			else
+				x++, y--;
 		
 	}
 
