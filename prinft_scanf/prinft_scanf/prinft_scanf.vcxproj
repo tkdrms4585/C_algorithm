@@ -131,6 +131,14 @@
     <ClCompile Include="m2s.cpp" />
     <ClCompile Include="swap.cpp" />
     <ClCompile Include="op.cpp" />
+    <ClCompile Include="triangle.cpp" />
+    <ClCompile Include="average.cpp" />
+    <ClCompile Include="CtoF.cpp" />
+    <ClCompile Include="q_r.cpp" />
+    <ClCompile Include="change.cpp" />
+    <ClCompile Include="sec.cpp" />
+    <ClCompile Include="three.cpp" />
+    <ClCompile Include="소스.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
