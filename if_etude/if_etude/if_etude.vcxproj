@@ -101,7 +101,7 @@
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
-      <SDLCheck>true</SDLCheck>
+      <SDLCheck>false</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
@@ -127,8 +127,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ATM(open).cpp" />
     <ClCompile Include="compare.cpp" />
-    <ClCompile Include="소스.cpp" />
+    <ClCompile Include="comparefrac.cpp" />
+    <ClCompile Include="coci_note.cpp" />
+    <ClCompile Include="leap_year.cpp" />
+    <ClCompile Include="swimming.cpp" />
+    <ClCompile Include="hack.cpp" />
+    <ClCompile Include="truck.cpp" />
+    <ClCompile Include="troy.cpp" />
+    <ClCompile Include="div_mul.cpp" />
+    <ClCompile Include="coci_spa.cpp" />
+    <ClCompile Include="saju.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
