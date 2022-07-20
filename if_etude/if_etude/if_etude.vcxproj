@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ATM(open).cpp" />
+    <ClCompile Include="calorie.cpp" />
     <ClCompile Include="compare.cpp" />
     <ClCompile Include="comparefrac.cpp" />
     <ClCompile Include="coci_note.cpp" />
