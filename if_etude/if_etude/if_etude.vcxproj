@@ -132,7 +132,12 @@
     <ClCompile Include="compare.cpp" />
     <ClCompile Include="comparefrac.cpp" />
     <ClCompile Include="coci_note.cpp" />
+    <ClCompile Include="even_odd.cpp" />
+    <ClCompile Include="fairy.cpp" />
+    <ClCompile Include="fill.cpp" />
     <ClCompile Include="leap_year.cpp" />
+    <ClCompile Include="med.cpp" />
+    <ClCompile Include="punch_game.cpp" />
     <ClCompile Include="swimming.cpp" />
     <ClCompile Include="hack.cpp" />
     <ClCompile Include="truck.cpp" />
