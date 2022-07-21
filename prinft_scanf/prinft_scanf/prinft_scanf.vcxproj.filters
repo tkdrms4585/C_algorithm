@@ -48,7 +48,13 @@
     <ClCompile Include="three.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="소스.cpp">
+    <ClCompile Include="koiWatch.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="emptyBottle.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="nsubset.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
