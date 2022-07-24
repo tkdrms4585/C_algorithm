@@ -12,7 +12,7 @@ void mt(int v) {
 	printf("%d", v);
 }
 
-int main() {
+int main_mt() {
 	scanf("%d", &n);
 	mt(1);
 	return 0;

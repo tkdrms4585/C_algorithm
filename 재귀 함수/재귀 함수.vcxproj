@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="euclid.cpp" />
     <ClCompile Include="mt(open).cpp" />
     <ClCompile Include="소스.cpp" />
     <ClCompile Include="tobin.cpp" />
