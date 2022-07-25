@@ -5,7 +5,7 @@ http://220.89.64.243/30stair/1ton/1ton.php?pname=1ton
 
 #include<stdio.h>
 
-int main() {
+int main_1ton() {
 	int i, n, s = 0;
 	scanf("%d", &n);
 
