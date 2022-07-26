@@ -131,10 +131,12 @@
     <ClCompile Include="1ton1.cpp" />
     <ClCompile Include="3np1.cpp" />
     <ClCompile Include="adigit.cpp" />
+    <ClCompile Include="chemistry.cpp" />
     <ClCompile Include="cnter1.cpp" />
     <ClCompile Include="complete.cpp" />
     <ClCompile Include="factor.cpp" />
     <ClCompile Include="financial.cpp" />
+    <ClCompile Include="ftod(open).cpp" />
     <ClCompile Include="gugudan.cpp" />
     <ClCompile Include="max.cpp" />
     <ClCompile Include="min.cpp" />
@@ -150,6 +152,7 @@
     <ClCompile Include="star.cpp" />
     <ClCompile Include="sum.cpp" />
     <ClCompile Include="fact.cpp" />
+    <ClCompile Include="triangular_sum.cpp" />
     <ClCompile Include="validate.cpp" />
     <ClCompile Include="yaksu.cpp" />
   </ItemGroup>
