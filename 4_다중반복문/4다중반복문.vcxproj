@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{bf48b1e5-f0ad-4d27-ba81-1f4c8d930a73}</ProjectGuid>
-    <RootNamespace>for</RootNamespace>
+    <ProjectGuid>{b3fbc530-78cf-45b9-851a-d261be94abce}</ProjectGuid>
+    <RootNamespace>My4다중반복문</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,34 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1ton.cpp" />
-    <ClCompile Include="1ton1.cpp" />
-    <ClCompile Include="3np1.cpp" />
-    <ClCompile Include="adigit.cpp" />
-    <ClCompile Include="chemistry.cpp" />
-    <ClCompile Include="cnter1.cpp" />
-    <ClCompile Include="complete.cpp" />
-    <ClCompile Include="factor.cpp" />
-    <ClCompile Include="financial.cpp" />
-    <ClCompile Include="ftod(open).cpp" />
-    <ClCompile Include="gugudan.cpp" />
-    <ClCompile Include="max.cpp" />
-    <ClCompile Include="min.cpp" />
-    <ClCompile Include="mM.cpp" />
-    <ClCompile Include="nfactor.cpp" />
-    <ClCompile Include="Nsum(open).cpp" />
-    <ClCompile Include="odd.cpp" />
-    <ClCompile Include="perfect.cpp" />
-    <ClCompile Include="rep.cpp" />
-    <ClCompile Include="sb.cpp" />
-    <ClCompile Include="seq(open).cpp" />
-    <ClCompile Include="seq2.cpp" />
-    <ClCompile Include="star.cpp" />
-    <ClCompile Include="sum.cpp" />
-    <ClCompile Include="fact.cpp" />
-    <ClCompile Include="triangular_sum.cpp" />
-    <ClCompile Include="validate.cpp" />
-    <ClCompile Include="yaksu.cpp" />
+    <ClCompile Include="nemo.cpp" />
+    <ClCompile Include="etnirp.cpp" />
+    <ClCompile Include="printe.cpp" />
+    <ClCompile Include="tri1.cpp" />
+    <ClCompile Include="tri2.cpp" />
+    <ClCompile Include="tri3.cpp" />
+    <ClCompile Include="zorro.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
