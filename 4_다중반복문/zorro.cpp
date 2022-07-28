@@ -11,7 +11,7 @@ n을 입력 받아 z 모양 출력
 
 #include<stdio.h>
 
-int main() {
+int main_sclock() {
 	int i, j, n;
 	scanf("%d", &n);
 
