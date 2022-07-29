@@ -36,10 +36,31 @@
     <ClCompile Include="zorro.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="sandglass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="sclock.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test.cpp">
+    <ClCompile Include="bui.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="diamond.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="mask.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pfactor.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="climbing.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="speed_reading.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="54321.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

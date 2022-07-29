@@ -128,15 +128,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="54321.cpp" />
+    <ClCompile Include="bui.cpp" />
+    <ClCompile Include="climbing.cpp" />
+    <ClCompile Include="diamond.cpp" />
     <ClCompile Include="nemo.cpp" />
     <ClCompile Include="etnirp.cpp" />
+    <ClCompile Include="pfactor.cpp" />
     <ClCompile Include="printe.cpp" />
+    <ClCompile Include="sandglass.cpp" />
     <ClCompile Include="sclock.cpp" />
-    <ClCompile Include="test.cpp" />
+    <ClCompile Include="speed_reading.cpp" />
     <ClCompile Include="tri1.cpp" />
     <ClCompile Include="tri2.cpp" />
     <ClCompile Include="tri3.cpp" />
     <ClCompile Include="zorro.cpp" />
+    <ClCompile Include="mask.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
