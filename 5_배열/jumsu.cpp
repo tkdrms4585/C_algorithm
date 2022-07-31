@@ -8,7 +8,7 @@ OX 문제를 연속으로 맞추는 경우 가산점을 부여
 
 #include<stdio.h>
 
-int main() {
+int main_jumsu() {
 	int i, n, answer = 0, cnt = 0, a[101] = { 0, };
 	// 입력
 	scanf("%d", &n);
