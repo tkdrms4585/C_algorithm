@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+<<<<<<< HEAD:1_prinft_scanf/prinft_scanf/prinft_scanf.vcxproj
     <ClCompile Include="area.cpp" />
     <ClCompile Include="business.cpp" />
     <ClCompile Include="m2s.cpp" />
@@ -142,6 +143,33 @@
     <ClCompile Include="three.cpp" />
     <ClCompile Include="koiWatch.cpp" />
     <ClCompile Include="emptyBottle.cpp" />
+=======
+    <ClCompile Include="1ton.cpp" />
+    <ClCompile Include="1ton1.cpp" />
+    <ClCompile Include="3np1.cpp" />
+    <ClCompile Include="adigit.cpp" />
+    <ClCompile Include="cnter1.cpp" />
+    <ClCompile Include="complete.cpp" />
+    <ClCompile Include="factor.cpp" />
+    <ClCompile Include="financial.cpp" />
+    <ClCompile Include="gugudan.cpp" />
+    <ClCompile Include="max.cpp" />
+    <ClCompile Include="min.cpp" />
+    <ClCompile Include="mM.cpp" />
+    <ClCompile Include="nfactor.cpp" />
+    <ClCompile Include="Nsum(open).cpp" />
+    <ClCompile Include="odd.cpp" />
+    <ClCompile Include="perfect.cpp" />
+    <ClCompile Include="rep.cpp" />
+    <ClCompile Include="sb.cpp" />
+    <ClCompile Include="seq(open).cpp" />
+    <ClCompile Include="seq2.cpp" />
+    <ClCompile Include="star.cpp" />
+    <ClCompile Include="sum.cpp" />
+    <ClCompile Include="fact.cpp" />
+    <ClCompile Include="validate.cpp" />
+    <ClCompile Include="yaksu.cpp" />
+>>>>>>> parent of 82d2a2b (for):for/for.vcxproj
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

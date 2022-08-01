@@ -63,7 +63,35 @@
     <ClCompile Include="penta(open).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+<<<<<<< HEAD:5_배열/5_배열.vcxproj.filters
     <ClCompile Include="소스.cpp">
+=======
+    <ClCompile Include="fact.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="factor.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="financial.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="nfactor.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="yaksu.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="complete.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="perfect.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="validate.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="cnter1.cpp">
+>>>>>>> parent of 82d2a2b (for):for/for.vcxproj.filters
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
