@@ -130,15 +130,20 @@
     <ClCompile Include="above_average.cpp" />
     <ClCompile Include="big_clock.cpp" />
     <ClCompile Include="box_brick.cpp" />
+    <ClCompile Include="dfact.cpp" />
+    <ClCompile Include="dfact2.cpp" />
     <ClCompile Include="distinct.cpp" />
     <ClCompile Include="distinct2.cpp" />
     <ClCompile Include="dup(open).cpp" />
     <ClCompile Include="dwarf.cpp" />
     <ClCompile Include="jumsu.cpp" />
     <ClCompile Include="ms.cpp" />
+    <ClCompile Include="ms2.cpp" />
+    <ClCompile Include="penta(open).cpp" />
     <ClCompile Include="pir.cpp" />
     <ClCompile Include="rprint.cpp" />
     <ClCompile Include="white.cpp" />
+    <ClCompile Include="소스.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
