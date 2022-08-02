@@ -136,12 +136,15 @@
     <ClCompile Include="distinct2.cpp" />
     <ClCompile Include="dup(open).cpp" />
     <ClCompile Include="dwarf.cpp" />
+    <ClCompile Include="eratosthenes.cpp" />
+    <ClCompile Include="hay.cpp" />
     <ClCompile Include="jumsu.cpp" />
     <ClCompile Include="ms.cpp" />
     <ClCompile Include="ms2.cpp" />
     <ClCompile Include="penta(open).cpp" />
     <ClCompile Include="pir.cpp" />
     <ClCompile Include="rprint.cpp" />
+    <ClCompile Include="rsq.cpp" />
     <ClCompile Include="white.cpp" />
     <ClCompile Include="소스.cpp" />
   </ItemGroup>
