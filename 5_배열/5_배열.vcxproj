@@ -139,6 +139,7 @@
     <ClCompile Include="eratosthenes.cpp" />
     <ClCompile Include="hay.cpp" />
     <ClCompile Include="jumsu.cpp" />
+    <ClCompile Include="ma.cpp" />
     <ClCompile Include="ms.cpp" />
     <ClCompile Include="ms2.cpp" />
     <ClCompile Include="penta(open).cpp" />

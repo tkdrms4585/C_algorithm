@@ -21,5 +21,6 @@
     <ClCompile Include="hay.cpp" />
     <ClCompile Include="rsq.cpp" />
     <ClCompile Include="eratosthenes.cpp" />
+    <ClCompile Include="ma.cpp" />
   </ItemGroup>
 </Project>
