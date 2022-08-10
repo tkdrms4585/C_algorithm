@@ -1,9 +1,13 @@
+/*
+http://220.89.64.243/30stair/selection2/selection2.php?pname=selection2
+선택 정렬이 이루어지는 과정으로
+n개의 데이터가 s번의 스탭 후 상태를 출력
+*/
+
 #include<stdio.h>
 
-
-int main() {
-
-int a[1000];
+int main_selection1() {
+    int a[1000];
     int i, j, k, min, t;
     int n, s;
 
@@ -14,11 +18,11 @@ int a[1000];
     }
 
     for (i = 0; i < s; i++) {
-        k = i;
+        k = i; // 현재 포인트
         min = a[i];
         for (j = i + 1; j < n; j++) {
-            if (min > a[j]) {
-                k = j;
+            if (min > a[j]) { // 최소값 탐색
+                k = j; //최소 값의 포인트
                 min = a[j];
             }
         }

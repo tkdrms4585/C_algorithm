@@ -9,7 +9,7 @@ http://220.89.64.243/30stair/shake/shake.php?pname=shake
 
 #include<stdio.h>
 
-int main() {
+int main_shake() {
 	int i, j, n, t, s = 0;
 	int num[1000];
 	//ют╥б
