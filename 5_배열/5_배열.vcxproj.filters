@@ -22,5 +22,6 @@
     <ClCompile Include="rsq.cpp" />
     <ClCompile Include="eratosthenes.cpp" />
     <ClCompile Include="ma.cpp" />
+    <ClCompile Include="pmin.cpp" />
   </ItemGroup>
 </Project>

@@ -20,7 +20,7 @@ http://220.89.64.243/30stair/ma/ma.php?pname=ma
 
 #include<stdio.h>
 
-int main() {
+int main_ma() {
     int num[31] = { 0, }; // 배열을 0으로 초기화
     int i, j, cnt = 0;
     
