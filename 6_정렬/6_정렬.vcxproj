@@ -128,9 +128,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="bubble.cpp" />
+    <ClCompile Include="fraction.cpp" />
     <ClCompile Include="icpc.cpp" />
     <ClCompile Include="insertion.cpp" />
     <ClCompile Include="jollysort.cpp" />
+    <ClCompile Include="notaskwhy.cpp" />
+    <ClCompile Include="notaskwhy2.cpp" />
     <ClCompile Include="ranksort.cpp" />
     <ClCompile Include="selection2.cpp" />
     <ClCompile Include="shake.cpp" />
