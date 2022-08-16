@@ -18,7 +18,6 @@ int main_log() {
     while (1) {
         cnt++;
         if (cnt * (cnt - 1) / 2 >= n) break;
-
     }
     printf("%d ", --cnt); // 최하단 통나무 수
 
