@@ -28,7 +28,7 @@ int main() {
 	}
 
 	// 정렬
-	sort(km, km + n, chkmilk);
+	sort(km, km + m, chkmilk);
 
 	// 계산
 	while(1) {
