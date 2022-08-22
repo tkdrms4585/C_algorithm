@@ -18,7 +18,7 @@ int chkmilk(temp i, temp j) {
 	return i.p < j.p;
 }
 
-int main() {
+int main_milk() {
 	int i, n, m, answer = 0;
 
 	// 입력
@@ -31,7 +31,7 @@ int main() {
 	sort(km, km + m, chkmilk);
 
 	// 계산
-	while(1) {
+	for (i = 0; i < m; i++) {
 		if (n >  km[i].a) {
 			answer += km[i].p * km[i].a;
 			n -= km[i].a;
