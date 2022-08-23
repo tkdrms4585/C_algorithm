@@ -6,6 +6,8 @@ http://220.89.64.243/30stair/barn/barn.php?pname=barn
 m 사용 가능한 최대 판자수
 s 전체 우리 수
 c 소들이 있는 우리 수
+
+입력을 받은 것을 기준으로 배열의 간격이 넓은 것을 기준으로 정렬
 */
 
 #include<stdio.h>

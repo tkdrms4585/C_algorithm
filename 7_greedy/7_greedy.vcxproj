@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="barn.cpp" />
     <ClCompile Include="knapsank.cpp" />
     <ClCompile Include="mixing_milk.cpp" />
   </ItemGroup>
