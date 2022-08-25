@@ -16,16 +16,16 @@ c 소들이 있는 우리 수
 #include<algorithm>
 using namespace std;
 
-int chkbarn(int i, int j) {
+int chkbarn(int i, int j) { // 소가 있는 우리 번호 정렬
 	return i > j;
 }
 
-int chkbarn2(int i, int j) {
+int chkbarn2(int i, int j) { // 우리 간의 간격 정렬
 	return i < j;
 }
 
 int main() {
-	int i, j, m, s, c;
+	int i, m, s, c;
 	int cow[210]; // 소들이 있는 우리를 넣을 배열
 	int a[210]; // 소들이 있는 우리의 간격을 계산할 변수
 	int dab;
@@ -37,16 +37,16 @@ int main() {
 		scanf("%d", &cow[i]);
 	}
 
-	// 정렬
-	sort(cow, cow + c, chkbarn2);
+	// 소 우리 번호 정렬 c= 소들이 있는 우리수
+	sort(cow, cow + c, chkbarn);
 
 	// 소들이 있는 우리의 간격을 계산
 	for (i = 0; i < c - 1; i++) {
 		a[i] = cow[i + 1] - cow[i] - 1;
 	}
 
-	// 정렬
-	sort(a, a + c - 1, chkbarn);
+	// 우리 간의 간격 정렬 넓은 것을 제외 시키기 위해
+	sort(a, a + c - 1, chkbarn2);
 
 	// 우리 전체 - 간격이 넓은 부분
 	dab = cow[c-1] - cow[0] + 1; // 우리 전체의 크기
