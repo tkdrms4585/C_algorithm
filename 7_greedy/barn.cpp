@@ -24,7 +24,7 @@ bool chkbarn2(int i, int j) { // 우리 간의 간격 정렬
 	return i > j;
 }
 
-int main() {
+int main_barn() {
 	int i, m, s, c;
 	int cow[210] = { 0, }; // 소들이 있는 우리를 넣을 배열
 	int a[210] = { 0, }; // 소들이 있는 우리의 간격을 계산할 변수

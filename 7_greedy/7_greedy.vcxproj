@@ -130,6 +130,7 @@
     <ClCompile Include="barn.cpp" />
     <ClCompile Include="knapsank.cpp" />
     <ClCompile Include="mixing_milk.cpp" />
+    <ClCompile Include="refrigerator.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
